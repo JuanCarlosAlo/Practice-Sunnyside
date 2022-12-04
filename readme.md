@@ -1,6 +1,6 @@
-# Blogger
+# SunnySide
 
-![Imagen del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
+![Imagen del proyecto](https://github.com/JuanCarlosAlo/Practice-Sunnyside/blob/main/assets/wqzotbyfysz9pbfk9jus.jpg?raw=true)
 
 ## Ejemplo en vivo
 
@@ -8,11 +8,11 @@
 
 ## Descripción
 
-Blogger es una empresa que ofrece una herramienta para la edicion y mantenimiento de blogs. Ofrece la herramienta de forma gratuita.
+Sunnyside es una empresa que ofrece servicios de marketing para tranformar y hacer visible cualquier marca.
 
 ## ¿Qué he aprendido en este proyecto?
 
-Este proyecto fue uno de los mas dificiles de lograr debido al planteamiento del menu, aprendi como realizar submenus utilizando JavaScript y flex y position para la posicion y el despliegue de el mismo.
+Este proyecto fue el primero en el que use JavaScript para abrir y cerrar el menu. Ademas aprendi a hacer paginas responsive.
 
 ## Tecnologías
 
@@ -28,11 +28,11 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ## Ordenador
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/awqnouxukwefdkaqt5iq.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Practice-Sunnyside/blob/main/assets/wqzotbyfysz9pbfk9jus.jpg?raw=true)
 
 ## Movil
 
-![Captura del proyecto](https://github.com/JuanCarlosAlo/Blogger/blob/main/images/th5eozdywkv9090e7nks.jpg?raw=true)
+![Captura del proyecto](https://github.com/JuanCarlosAlo/Practice-Sunnyside/blob/main/assets/pc2lqrbbho37ouwzvcas.jpg?raw=true)
 
 ## Autor
 
