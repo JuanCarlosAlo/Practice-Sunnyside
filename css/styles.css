@@ -322,7 +322,7 @@ body {
     }
 
     .header {
-            background-image: url(assets/desktop/image-header.jpg);
+            background-image: url(/assets/mobile/image-header.jpg);
     }
     .header__title::after {
         top: 25px;
