@@ -45,7 +45,7 @@ body {
     position: relative;
     height: 1076px;
     justify-content: space-between;
-    background-image: url(assets/mobile/image-header.jpg);
+    background-image: url(/assets/mobile/image-header.jpg);
     background-repeat: no-repeat;
     background-position:center bottom;
     background-size: cover;
